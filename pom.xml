@@ -10,7 +10,6 @@
 
     <modules>
         <module>happynumbers-service-provider</module>
-        <module>integration-tests</module>
     </modules>
 
 </project>
